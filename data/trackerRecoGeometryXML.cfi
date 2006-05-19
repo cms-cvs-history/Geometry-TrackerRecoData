@@ -1,5 +1,5 @@
 es_source = XMLIdealGeometryESSource
 {
    FileInPath GeometryConfiguration="Geometry/TrackerRecoData/data/trackerRecoConfiguration.xml"
-   string rootNodeName = " "
+   string rootNodeName = ""
 }
