@@ -1,4 +1,4 @@
-es_source = XMLIdealGeometryESSource
+es_source  trackerIdealGeom = XMLIdealGeometryESSource
 {
    vstring geomXMLFiles = {
       "Geometry/CMSCommonData/data/cms.xml",
